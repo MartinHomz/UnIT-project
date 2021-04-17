@@ -1,0 +1,29 @@
+﻿///* ========================================================================
+//   #Objects Base
+//   ======================================================================== */
+
+//Základní objekty
+
+.PageLayout {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+    background-color: #cccccc;
+    filter: brightness(90%);
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: min-content 1fr min-content;
+    grid-template-rows: auto 1fr;
+    grid-template-areas: "Header Header Header" "LeftSidebar Main RightSidebar";
+}
+
+.IntroPage {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #232323;
+}

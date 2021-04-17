@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\MarHo\source\repos\Bark\Bark\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="_content/DevExpress.Blazor" Path="C:\Users\MarHo\.nuget\packages\devexpress.blazor\20.1.11\build\..\staticwebassets\" />
+</StaticWebAssets>

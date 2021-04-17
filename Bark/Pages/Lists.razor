@@ -1,0 +1,28 @@
+﻿@page "/Lists"
+
+<div class="ListRow">
+    <div class="List">
+        <img class="List-img" src="https://img.csfd.cz/files/images/film/posters/159/217/159217194_e183d5.jpg?h180" />
+        <div class="List-text">Fav movies</div>
+        <div class="List-controls">
+            <span class="bi bi-share"></span>
+        </div>
+    </div>
+    <div class="List">
+        <img class="List-img" src="https://img.csfd.cz/files/images/film/posters/160/859/160859123_ebea0f.jpg?h180" />
+        <div class="List-text">Fav series</div>
+        <div class="List-controls">
+            <span class="bi bi-share"></span>
+        </div>
+    </div>
+</div>
+
+@code {
+    [CascadingParameter(Name = "MainLayout")] public MainLayout MainLayout { get; set; }
+
+
+    protected override void OnInitialized()
+    {
+        MainLayout.DisplayRightSidebar = false;
+    }
+}

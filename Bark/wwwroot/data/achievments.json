@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "name": "Komentator",
+    "icon": "bi bi-message",
+    "note": "napiš 1 komentar",
+    "value": 1
+  },
+  {
+    "id": 1,
+    "name": "Sledovatel",
+    "icon": "bi bi-tv",
+    "note": "koukni na 1 obsah",
+    "value": 1
+  },
+  {
+    "id": 2,
+    "name": "Pritel",
+    "icon": "bi bi-list",
+    "note": "sdilej seznam",
+    "value": 1
+  },
+  {
+    "id": 3,
+    "name": "Komentator",
+    "icon": "bi bi-message",
+    "note": "napiš 1 komentar",
+    "value": 1
+  },
+  {
+    "id": 4,
+    "name": "Komentator",
+    "icon": "bi bi-message",
+    "note": "napiš 1 komentar",
+    "value": 1
+  },
+  {
+    "id": 5,
+    "name": "Komentator",
+    "icon": "bi bi-message",
+    "note": "napiš 1 komentar",
+    "value": 1
+  },
+  {
+    "id": 6,
+    "name": "Komentator",
+    "icon": "bi bi-message",
+    "note": "napiš 1 komentar",
+    "value": 1
+  },
+  {
+    "id": 7,
+    "name": "Komentator",
+    "icon": "bi bi-message",
+    "note": "napiš 1 komentar",
+    "value": 1
+  },
+  {
+    "id": 8,
+    "name": "Komentator",
+    "icon": "bi bi-message",
+    "note": "napiš 1 komentar",
+    "value": 1
+  },
+  {
+    "id": 9,
+    "name": "Komentator",
+    "icon": "bi bi-message",
+    "note": "napiš 1 komentar",
+    "value": 1
+  }
+]

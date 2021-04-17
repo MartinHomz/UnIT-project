@@ -1,0 +1,199 @@
+[
+  {
+    "id": 0,
+    "short":  "TZ",
+    "name": "Tomas Zvon",
+    "genre": 0,
+    "email": "zvon@mail.com",
+    "SocSiteId": 0,
+    "sawedContent": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "endTime": 10,
+        "sawed": false
+      }
+    ],
+    "contentLists": [
+      {
+        "contentListId": 0,
+        "contentType": 0,
+        "sharedFriendsId": [ 1, 5, 6, 2 ],
+        "listName": "Moje oblibene filmy",
+        "listContent": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "contentListId": 1,
+        "contentType": 1,
+        "sharedFriendsId": [],
+        "listName": "Moje oblibene serialy",
+        "listContent": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Karina Dostupna",
+    "short": "KD",
+    "genre": 1,
+    "email": "dostup@mail.com",
+    "SocSiteId": 1,
+    "sawedContent": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "endTime": 120,
+        "sawed": true
+      }
+    ],
+    "contentLists": []
+  },
+  {
+    "id": 2,
+    "name": "Radmila Velka",
+    "short": "RV",
+    "genre": 1,
+    "email": "velka@mail.com",
+    "SocSiteId": 2,
+    "sawedContent": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "endTime": 120,
+        "sawed": true
+      }
+    ],
+    "contentLists": []
+  },
+  {
+    "id": 3,
+    "name": "Cestmir Cestny",
+    "short": "CC",
+    "genre": 0,
+    "email": "cestny@mail.com",
+    "SocSiteId": 1,
+    "sawedContent": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "endTime": 120,
+        "sawed": true
+      }
+    ],
+    "contentLists": []
+  },
+  {
+    "id": 4,
+    "name": "Zdenek Dvere",
+    "short": "ZD",
+    "genre": 0,
+    "email": "dvere@mail.com",
+    "SocSiteId": 4,
+    "sawedContent": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "endTime": 120,
+        "sawed": true
+      }
+    ],
+    "contentLists": []
+  },
+  {
+    "id": 5,
+    "name": "Zora Lora",
+    "short": "ZL",
+    "genre": 1,
+    "email": "lora@mail.com",
+    "SocSiteId": 5,
+    "sawedContent": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "endTime": 120,
+        "sawed": true
+      }
+    ],
+    "contentLists": []
+  },
+  {
+    "id": 6,
+    "name": "Ingrid Nedostupna",
+    "short": "IN",
+    "genre": 1,
+    "email": "nedostup@mail.com",
+    "SocSiteId": 6,
+    "sawedContent": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "endTime": 120,
+        "sawed": true
+      }
+    ],
+    "contentLists": []
+  },
+  {
+    "id": 7,
+    "name": "Milena Milovska",
+    "short": "MM",
+    "genre": 1,
+    "email": "milovska@mail.com",
+    "SocSiteId": 7,
+    "sawedContent": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "endTime": 120,
+        "sawed": true
+      }
+    ],
+    "contentLists": []
+  },
+  {
+    "id": 8,
+    "name": "Karina Stejna",
+    "short": "KS",
+    "genre": 1,
+    "email": "stejna@mail.com",
+    "SocSiteId": 8,
+    "sawedContent": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "endTime": 120,
+        "sawed": true
+      }
+    ],
+    "contentLists": []
+  },
+  {
+    "id": 9,
+    "name": "Patrik Srovnany",
+    "short": "PS",
+    "genre": 0,
+    "email": "srovnany@mail.com",
+    "SocSiteId": 9,
+    "sawedContent": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "endTime": 120,
+        "sawed": true
+      }
+    ],
+    "contentLists": []
+  }
+]

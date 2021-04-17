@@ -1,0 +1,132 @@
+﻿<div class="ContView">
+    <div class="ContView-view">
+        <div class="ContView-text">
+            <span class="ContView-title">The 100</span>
+            <span class="ContView-textLong">
+                The 100 (pronounced The Hundred) is an American post-apocalyptic science fiction drama television series
+            </span>
+            <div class="ContView-controls">
+                <div class="ContView-button">
+                    <i class="bi bi-skip-end-fill"></i>
+                    <span>Watch now</span>
+                </div>
+                <div class="ContView-button">
+                    <span>Watch trailer</span>
+                </div>
+                <div class="ContView-button">
+                    <i class="bi bi-emoji-smile-fill"></i>
+                </div>
+                <div class="ContView-button">
+                    <i class="bi bi-share-fill"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="ContView-info">
+        <div class="ContView-infoControls">
+            <div class="ContView-button @(BasicInfoView ? "is-active" : "")" @onclick="OnBasicInfo">Informations</div>
+            <div class="ContView-button @(!BasicInfoView ? "is-active" : "")" @onclick="OnUserInfo">Users informations</div>
+        </div>
+        @if (BasicInfoView)
+        {
+            <div class="ContView-infoBasic">
+                <div><strong>Genre:</strong> Fantasy, Sci-Fi, Drama</div>
+                <div><strong>Rating:</strong> 75%</div>
+                <div><strong>Audio:</strong> English</div>
+                <div><strong>Subtitles:</strong> English</div>
+                <div><strong>Director & Cast:</strong> Eliza Taylor, Bob Morley</div>
+            </div>
+        }
+        else
+        {
+            <div class="ContView-infoUsers">
+                <div><strong>Rating:</strong> 82%</div>
+                <div><strong>Views:</strong> 5402</div>
+                <div><strong>Seen by:</strong></div>
+                <div class="ContView-usersViewed">
+                    <div class="Sidebar-friendAvatar" style="background-color: #a45f5f;">
+                        <span class="Sidebar-friendAvatarName">ZD</span>
+                        <span class="Sidebar-friendAvatarRank">6</span>
+                        <span class="Sidebar-friendAvatarActivity is-offline"></span>
+                    </div>
+                    <div class="Sidebar-friendAvatar" style="background-color: #71a45f;">
+                        <span class="Sidebar-friendAvatarName">AD</span>
+                        <span class="Sidebar-friendAvatarRank">2</span>
+                        <span class="Sidebar-friendAvatarActivity is-notdisturb"></span>
+                    </div>
+                    <div class="Sidebar-friendAvatar">
+                        <span class="Sidebar-friendAvatarName">LM</span>
+                        <span class="Sidebar-friendAvatarRank">3</span>
+                        <span class="Sidebar-friendAvatarActivity is-online"></span>
+                    </div>
+                    <div class="Sidebar-friendAvatar" style="background-color: #a45f89;">
+                        <span class="Sidebar-friendAvatarName">KF</span>
+                        <span class="Sidebar-friendAvatarRank">2</span>
+                        <span class="Sidebar-friendAvatarActivity is-offline"></span>
+                    </div>
+                    <div class="Sidebar-friendAvatar">
+                        <span class="Sidebar-friendAvatarName">CV</span>
+                        <span class="Sidebar-friendAvatarRank">1</span>
+                        <span class="Sidebar-friendAvatarActivity is-online"></span>
+                    </div>
+                    <div class="Sidebar-friendAvatar" style="background-color: #5fa3a4;">
+                        <span class="Sidebar-friendAvatarName">FT</span>
+                        <span class="Sidebar-friendAvatarRank">5</span>
+                        <span class="Sidebar-friendAvatarActivity is-offline"></span>
+                    </div>
+                    <div class="Sidebar-friendAvatar" style="background-color: #6ca45f;">
+                        <span class="Sidebar-friendAvatarName">+48</span>
+                        <span class="Sidebar-friendAvatarRank">5</span>
+                        <span class="Sidebar-friendAvatarActivity is-offline"></span>
+                    </div>
+                </div>
+                <div><strong>Achievments:</strong></div>
+                <div class="ContView-achievments">
+                    <div class="ContView-achievment">
+                        <span>LA</span>
+                        <i class="bi bi-shield-fill is-complete"></i>
+                    </div>
+                    <div class="ContView-achievment">
+                        <span>SV</span>
+                        <i class="bi bi-shield-fill"></i>
+                    </div>
+                </div>
+                <div><strong>Comments:</strong></div>
+                <div class="ContView-comments">
+                    <div class="ContView-comment">
+                        <div class="Sidebar-friendAvatar" style="background-color: #5f7ea4;">
+                            <span class="Sidebar-friendAvatarName">TM</span>
+                            <span class="Sidebar-friendAvatarRank">2</span>
+                            <span class="Sidebar-friendAvatarActivity is-online"></span>
+                        </div>
+                        <div class="ContView-commentText">
+                            Jedno z nejpříjemnějších překvapení této seriálové sezony. Jak je vidět i z komentářů, spousta diváků k seriálu přistoupila již s počátečním despektem, jelikož "je to od CW, jsou tam teenageři a je to dystopie". A teď můj pohled, jakožto diváka, který v první řadě neřeší televizní příslušnost nebo "přehnaně hezký" vzhled hlavních postav, ale samotný námět. 1. série: "Stovka" boduje přímočarým příběhem, který je navíc rozložen do zkrácené třináctidílné první série, která nedávala téměř žádný prostor pro natahování jednotlivých dějových linek. Postavy jsou dobře rozehrané, přičemž tvůrci se nebojí odstraňovat postavy téměr s epizodní pravidelností, popírat některá klišé a ani pro drsnější akční scény nejdou daleko. Moje další seriálové guilty pleasure je na světě. Díky CW. 2. série: To nejlepší ze seriálové tvorby sezony 2014/2015. Neskutečný vývoj hlavních postav, nečekané zvraty téměř v každé epizodě, spousta dilemat a těžkých rozhodnutí, nové lokace a v neposlední řadě výborně připravená půda pro další sérii. 95%
+                        </div>
+                    </div>
+                    <div class="ContView-comment">
+                        <div class="Sidebar-friendAvatar" style="background-color: #8c5fa4;">
+                            <span class="Sidebar-friendAvatarName">TM</span>
+                            <span class="Sidebar-friendAvatarRank">2</span>
+                            <span class="Sidebar-friendAvatarActivity is-online"></span>
+                        </div>
+                        <div class="ContView-commentText">
+                            A jelikož se seriálům vyhejbám, tak tady jsem se nechal zlákat a celkem jsem mile překvapený. První řadu s 13 ti díly, jsem slupnul během 24 hodin, zejména tedy v noci, teď je noc druhá a já finišuji s řadou druhou. Spát půjdu tak kolem 5 ráno a pokud tady nenastane žádná změna, tak jsem zůstal nadšený a spokojený jako doposud. Co vím ale jistě je to, že si dám opět na pár let od seriálu pohov :-) Není možné sjet 29 dílů téměř nonstop. Pravidlo by byla práce pro psychiatra :-)
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<DxPopup HeaderText="Header"
+         @bind-Visible="@PopupVisible">
+    <Content>
+    </Content>
+</DxPopup>
+
+<style>
+    .PageLayout {
+        background-image: url("../../img/the100.jpg") !important;
+    }
+</style>

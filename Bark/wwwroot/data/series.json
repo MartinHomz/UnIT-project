@@ -1,0 +1,2077 @@
+﻿[
+  {
+    "id": 0,
+    "name": "Cernobyl",
+    "image": "https://img.csfd.cz/files/images/film/posters/163/798/163798914_da5cee.jpg?h180",
+    "note": "Cernobyl, petidilna miniserie z koprodukce spolecnosti HBO a Sky, rekonstruuje pribeh o jaderne havarii z roku 1986, jedne z nejhorsich katastrof v historii zpusobenych clovekem, a o obetech, ktere byly ucineny pro zachranu Evropy pred nepredstavitelnou pohromou. Dne 26. dubna 1986 otrasla jadernou elektrarnou v Cernobylu na Ukrajine mohutna exploze, ktera uvolnila nebezpecne radioaktivni latky nejen na ukrajinskem, beloruskem a ruskem uzemi tehdejsiho Sovetskeho svazu, ale take do oblasti Skandinavie a zapadni Evropy. Jared Harris ztvarnuje Valerije Legasova, predniho sovetskeho jaderneho fyzika, ktery vedl vysetrovani tragicke udalosti. Stellan Skarsgard hraje sovetskeho mistopredsedu vlady Borise Scerbinu, ktereho Kreml poveril vedenim vladni komise zjistujici okolnosti havarie. Emily Watsonova predstavuje jadernou fyzicku Ulanu Khomyukovou, ktera chce odhalit tajemstvi kolem cernobylskeho nestesti.(HBO Europe)",
+    "createDate": 2019,
+    "rating": 96.2,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "1:12:45",
+            "time": 30
+
+          },
+          {
+            "id": 1,
+            "name": "Please Remain Calm",
+            "time": 30
+
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 1,
+    "name": "Bratrstvo neohrozenych",
+    "image": "https://img.csfd.cz/files/images/film/posters/164/947/164947074_0b340c.jpg?h180",
+    "note": "Bratrstvo neohrozenych predstavuje zasadni pocin v historii HBO i televize samotne. Jedna se o desetidilnou miniserii natocenou na motivy bestselleru spisovatele Stephena E. Ambroseho, jenz pojednava o elitni jednotce americke armady z 2. svetove valky zname jako Easy Company. Miniserie zacina v prisnem vycvikovem tabore v Georgii v roce 1942 a vypravi o pozoruhodnych uspesich teto dobrovolnicke strelecke roty, ktera se casneho rana v osudny den D roku 1944 ucastnila vysadku ve Francii. Stala v cele operace Market-Garden a prodelala ofenzivu na Ryne, zautocila na nacisty v Bastogne i v Bulge a v roce 1945 pomahala dobyt Hitlerovo nedobytne Orli hnizdo v Berchtesgaden.(HBO Europe)",
+    "createDate": 2001,
+    "rating": 93.9,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Currahee",
+            "time": 30
+
+          },
+          {
+            "id": 1,
+            "name": "Den vsech dnu",
+            "time": 30
+
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Narcos",
+    "image": "https://img.csfd.cz/files/images/film/posters/160/412/160412743_44bc14.jpg?h180",
+    "note": "Na konci 70. let dvacateho stoleti se nechvalne prosluly zlocinec Pablo Escobar poprve zapojil do ilegalni vyroby kokainu. V cervenci 1992 se mu podarilo uprchnout z vezeni La Catedral, ktere kolumbijska vlada postavila podle Escobarovych vlastnich pozadavku vymenou za to, ze se vzda uradum a ,,odpyka",
+    "createDate": 2015,
+    "rating": 93.8,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Tom a Jerry",
+    "image": "https://img.csfd.cz/files/images/film/posters/158/236/158236127_03ad5b.jpg?h180",
+    "note": "Nerozlucne duo kocoura Toma a mysaka Jerryho spolu souperi v tomto americkem animovanem serialu ve 163 dilech. Tom se neustale snazi chytit vychytraleho Jerryho, ktery se jen tak neda a dela hloupemu kocourovi naschvaly. Nakonec ale stejne vsechno dobre dopadne a Tom a Jerry jsou zase kamosi jak hrom.(Zoiberg)",
+    "createDate": 1940,
+    "rating": 92.5,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Simpsonovi",
+    "image": "https://img.csfd.cz/files/images/film/posters/162/323/162323841_b1ba0e.jpg?h180",
+    "note": "Natvrdly lenoch Homer, pedantska putka Marge, drzounsky Bart, prechytrala Liza a roztomila Maggie - to jsou clenove rodiny nejslavnejsiho a nejpopularnejsiho animovaneho serialu Simpsonovi. Uz dvacet let se jich miliony fanousku na celem svete nemohou nabazit a v pravidelnych intervalech nakukuji do zakulisi legendarniho Springfieldu, aby byli svedky neuveritelnych dobrodruzstvi blaznive, ale presto vlastne normalni americke rodinky. Simpsonovi si ziskali sve obecenstvo predevsim neotrelym a trochu drsnym humorem, s nimz vykresluji typickou americkou rodinu z mestecka Springfield. Ta se sklada z peti naprosto odlisnych lidi, pro ktere je obcas poradne tezke se sebou vyjit. Nemluve o ostatnich obyvatelich mesta, v nemz to opravdu neustale zije - je tu vlastni upadla kultura, zkorumpovana politika, drsna mafie a leniva policie, ale take prosti obcane, kteri se kazdy tyden chodi kat do mistniho kostela. V neposledni rade si mohou divaci vsimnout jednoho vsudypritomneho detailu - Simpsonovi totiz temer v kazde scence neco nebo nekoho paroduji - at uz jde o svet filmovy, hudebni, politicky, ale i nabozensky. Tvurci serialu se zkratka s velkou odvahou pousteji do neustalych provokaci osob a instituci z realneho zivota.(TV Prima)",
+    "createDate": 1989,
+    "rating": 92.5,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pernikovy tata",
+    "image": "https://img.csfd.cz/files/images/film/posters/158/411/158411633_b7602b.jpg?h180",
+    "note": "V kompletni druhe sezone serialu Pernikovy tata Waltovi (dvojnasobny drzitel Ceny Emmy(r) Bryan Cranston) a Jessemu (Aaron Paul) vse prerusta pres hlavu. Jejich podnikani dosahuje novych rozmeru a oba zazivaji, co vsechno obnasi obchodovani s drogami. Prosluly modry amfetamin z nich udelal bohace, ale pro Walta je stale slozitejsi skryvat pravdu pred svou manzelkou Skyler (Anna Gunn), synem Walterem juniorem (RJ Mitte) a svagrem Hankem (Dean Norris), protidrogovym agentem. Ze vsech sil se snazi udrzet svuj zivot pod kontrolou, musi se ale potykat s brutalnimi drogovymi dealery, stale odtazitejsi zenou a synem, blizicim se narozenim dcery a drogove zavislym obchodnim partnerem - a pri tom vsem navic bojovat s rakovinou plic v konecnem stadiu. Za kamerou Pernikoveho taty: Kompletni druhe sezony stal Michael Slovis, strihu se ujala drzitelka Ceny Emmy(r) Lynne Willingham, A.C.E. Vykonnymi producenty byli Vince Gilligan a Mark Johnson.(oficialni text distributora)",
+    "createDate": 2008,
+    "rating": 92.1,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Mr. Bean",
+    "image": "https://img.csfd.cz/files/images/film/posters/000/027/27535_e8e083.jpg?h180",
+    "note": "Kazdy ho zna. Obycejny nenapadny chlapik stredniho veku a ze stredni vrstvy. Jeho pratele a rodina snad ani neexistuji a jakekoliv navazani nejakeho vztahu skonci katastrofou. Nema rad lidi, ma rad jenom sam sebe (snad jeste sveho medvidka). Vecny smolar, ktery zaziva uplne obycejne veci. Ale ke vsemu ma svuj originalni a vtipny postoj. Snad proto ho vsichni miluji. To je Mr. Bean.(Zoiberg)",
+    "createDate": 1990,
+    "rating": 91.4,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Kmotr",
+    "image": "https://img.csfd.cz/files/images/film/posters/109/310/109310264_cdd308.jpg?h180",
+    "note": "V novembri roku 1977 boli filmy Krstny otec (1972) a Krstny otec II (1974) spojene do jednej miniserie, ktora bola odvysielana na stanici NBC. Stopaz miniserie presahuje pat hodin, pretoze do nej boli vlozene a chronologicky zoradene vynechane sceny z oboch filmov. Po uvedeni filmu Krstny otec III (1990) bola cela seria skompletizovana pod nazvom The Godfather Trilogy 1901-1980 (1992).(Richard_Ba)",
+    "createDate": 1977,
+    "rating": 92.4,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Byl jednou jeden... zivot",
+    "image": "https://img.csfd.cz/files/images/film/posters/164/951/164951890_ed86c9.jpg?h180",
+    "note": "Zveme vas na dobrodruzny vylet za poznanim lidskeho tela. V tomhle animovanem serialu se dozvite, jak funguji bunky, srdce, mozek a vsechny dalsi telesne organy.(Netflix)",
+    "createDate": 1987,
+    "rating": 91.3,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Chalifat",
+    "image": "https://img.csfd.cz/files/images/film/posters/164/353/164353362_270ac3.jpg?h180",
+    "note": "Blizici se utok bojovniku ISIS na Svedsko svede dohromady nekolik zen vcetne matky v prekerni situaci, odvazne studentky a ambiciozni policistky.(Netflix)",
+    "createDate": 2020,
+    "rating": 91.5,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Sherlock",
+    "image": "https://img.csfd.cz/files/images/film/posters/000/504/504314_c67e89.jpg?h180",
+    "note": "Klasiku sira Arthura Conana Doylea o detektivovi Sherlocku Holmesovi zna vetsina populace. Jak to ale vypada, kdyz takovy Sherlock Holmes (Benedict Cumberbatch), kteremu samozrejme jisti zada dr. Watson (Martin Freeman), prichazi na stopu zlocinu v Londyne 21. stoleti? Prave o tom je miniserie britske BBC. Nechybi veletoky napadu a tradicni ostrovni humor.(Tirion)",
+    "createDate": 2010,
+    "rating": 91.2,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Gangy z Birminghamu",
+    "image": "https://img.csfd.cz/files/images/film/posters/162/470/162470902_b35ad8.jpg?h180",
+    "note": "Veleuspesna gangsterska saga vas prenese do Birminghamu 20. let minuleho stoleti. Rozvetvena rodina Shelbyovych zalozi obavany gang nazyvany Peaky Blinders. Jejich jmeno odkazuje na zvyk nosit ziletky na svych kloboucich, coz mnohe napovida. Serial vam predstavi krutou, krvavou, ale bezpochyby pusobivou kapitolu modernich britskych dejin. Vypravna gangsterska rodinna saga se skvelym obsazenim vcetne Cilliana Murphyho, Sama Neilla, Helen McCroryove, Annabelle Wallisove, Paula Andersona, Iddo Goldberga a Charlieho Creed-Milese. Obsazen byl i spisovatel a rastafariansky basnik Benjamin Zephaniah. Pribeh podle Stevena Knighta zacina v roce 1919 v chudych ctvrtich povalecneho Birminghamu, kde zadne zakony neplati. Navratilci z valky, novi revolucionari a zlocinecke bandy, ti vsichni bojuji o preziti v prumyslovem prostredi, ktere se zmita uprostred dramatickych hospodarskych zmen. Zbrane propasovane ze zakopu se dostavaji do ulic a kdo je ma, nezdraha se je pouzit. Zatimco Churchill mobilizuje sve jednotky zvlastniho oddeleni, ilegalni bookmakeri vydelavaji jmeni v nelegalnich sazkovych kancelarich a traumatizovani infanteriste zapijeji svuj granatovy sok v hlucnych hospodach. Na okrajich ma mesto stale jeste vlidnejsi tvar, tam cikani a lodkari obchoduji s konmi a vesti budoucnost, avsak na vrcholu teto prumyslove dzungle se usazuje rozvetvena rodina Shelbyovych, jejiz cetni sourozenci, bratranci a strycove tvori ten nejkrutejsi gang ze vsech - 'Peaky Blinders'. Svuj nazev si vyslouzili zasivanim ziletek do ksiltu svych cepic a penize vydelavaji sazkami mimo zavodiste, vybiranim vypalneho a loupezemi.(Filmbox)",
+    "createDate": 2013,
+    "rating": 91.2,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Rick a Morty",
+    "image": "https://img.csfd.cz/files/images/film/posters/159/727/159727033_ef26b1.jpg?h180",
+    "note": "Byl pohresovany skoro 20 let, ale ted se Rick Sanchez najednou objevi u sve dcery Beth a chce se k ni a jeji rodine nastehovat. Po dojemnem shledani se Rick usidli v garazi, kterou predela na laborator, a zacne v ni zkoumat ruzna nebezpecna udelatka a strojky. Samo o sobe by to nikomu nevadilo, jenze Rick do svych dobrodruznych pokusu stale casteji zatahuje take sva vnoucata Mortyho a Summer.(TV Prima)",
+    "createDate": 2013,
+    "rating": 91.1,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Hra o truny",
+    "image": "https://img.csfd.cz/files/images/film/posters/164/000/164000721_ae927a.jpg?h180",
+    "note": "Kontinent, kde leta trvaji desitky roku a zimy se mohou protahnout na cely lidsky zivot, zacinaji suzovat nepokoje. Vsech Sedm kralovstvi Zapadozemi - pleticharsky jih, divoke vychodni krajiny i ledovy sever ohraniceny starobylou Zdi, ktera chrani kralovstvi pred pronikanim temnoty - je zmitano bojem dvou mocnych rodu na zivot a na smrt o nadvladu nad celou risi. Zemi otrasa zrada, chtic, intriky a nadprirozene sily. Krvavy boj o Zelezny trun, post nejvyssiho vladce Sedmi kralovstvi, bude mit nepredvidatelne a dalekosahle dusledky... Vypravny serial HBO Hra o truny, podle bestsellerove fantasy sagy Pisen ohne a ledu od George R. R. Martina, zachycuje soupereni o moc mezi krali a kralovnami, rytiri a odpadliky, lhari a slechtici. Na pocatku pozada kral Robert Baratheon, jehoz zena Cersei pochazi z rodu bohatych a bezohlednych Lannisteru, lorda Eddarda Starka, aby prijel na jih a pomohl mu spravovat kralovstvi pote, co zahadne skonal jeho pobocnik. Zaroven trun z vychodu ohrozuje dospivajici princezna Daenerys s bratrem Viserysem, jejichz rod Targaryenu vladl Zapadozemi mnoho let predtim, nez byl krvave sesazen. A proslycha se take, ze se deji podivne veci na hranicich, severne od Zdi, kam odjizdi Jon Snow, Neduv nemanzelsky syn, aby se stal clenem bratrstva, jenz je zavazano prisahou kralovstvi chranit.(oficialni text distributora)",
+    "createDate": 2011,
+    "rating": 90.9,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "La casa de papel (Antena 3 version)",
+    "image": "https://img.csfd.cz/files/images/film/posters/164/034/164034730_599ab3.jpg?h180",
+    "note": "Papirovy dum (v anglictine Money Heist a ve spanelskem originale La casa de papel) je spanelsky kriminalni dramaticky serial. Serial, ktery byl vytvoren Alexem Pinou, mel byt puvodne limitovanou 15dilnou serii rozdelenou do dvou rad. Puvodne se serial vysilal od 2. kvetna do 23. listopadu 2017 na spanelske televizni stanici Antena 3. Pozdeji v roce 2017 ho prevzal Netflix, ktery serial predelal; prvni 9dilnou radu rozdelil do 13 epizod a druhou 6dilnou radu na 9 dilu. Treti rada mela na Netflixu premieru 19. cervence 2019 a ctvrta rada 3. dubna 2020. V ten samy den byl na Netflixu take zverejnen dokument o tom proc a jak se serial stal popularni, partsujici rozhovory s autory a herci serialu, pod nazvem Papirovy dum: Fenomen (v anglictine Money Heist: The Phenomenon a ve spanelstine La casa de papel: El fenomeno). Dne 31. cervence 2020 Netflix oznamil prodlouzeni serialu o finalni patou radu.(Wikipedie)",
+    "createDate": 2017,
+    "rating": 90.9,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Knick: Doktori bez hranic",
+    "image": "https://img.csfd.cz/files/images/film/posters/163/436/163436682_3a8dc8.jpg?h180",
+    "note": "nick: Doktori bez hranic je novy dramaticky serial z produkce Cinemaxu od oscaroveho rezisera Stevena Soderbergha. Odehrava se v centralnim New Yorku roku 1900 a soustredi se na legendarni nemocnici Knickerbocker Hospital, kde na zacatku dvacateho stoleti pokrokovi lekari, zdravotni sestry a vsechen ostatni personal posouvali hranice mediciny v dobe, kdy umrtnost lamala rekordy a antibiotika neexistovala. Clive Owen ztvarnuje hlavni roli doktora Johna Thackeryho, skveleho chirurga, jenz je prukopnikem novych metod v oboru, navzdory sve vazne zavislosti na kokainu. Thackery vede tym lekaru, ktery zahrnuje jeho chranence Dr. Everetta Gallingera, mladeho Dr. Bertieho Chickeringa a Algernona Edwardse, nadejneho chirurga, ktery byl Thackerymu nedavno vnucen. Dalsimi zajimavymi postavami v nemocnici jsou: Cornelia Robertsonova, dcera patrona nemocnice; mrzoutsky ridic sanitky Tom Cleary; Lucy Elkinsova, sestra, jez nedavno prisla z venkova; necestny reditel Herman Barrow a Sestra Harriet - jeptiska, ktere necini potiz rici svuj nazor. Cinemax uvadi druhou radu dramatickeho doboveho serialu, nominovaneho na cenu Emmy(r), od oscaroveho rezisera Stevena Soderbergha. Clive Owen se vraci v hlavni roli jako John Thackery, vynikajici chirurg v newyorske nemocnici na pocatku 20. stoleti, ktery navzdory sve zavislosti na drogach posouva hranice mediciny, moralky i rasove rovnopravnosti. Nemocnice Knick, jak se The Knickerbocker Hospital zkracene nazyva, je od zacatku druhe rady zmitana dramatickymi otresy, jelikoz nepritomnost Thackeryho (je hospitalizovan v Nove Anglii kvuli zavislosti na kokainu), nedostatek bohatych pacientu a cetne financni preslapy dovedly predstavenstvo k rozhodnuti premistit legendarni nemocnici z centra mesta na jeho okraj. Jak plany na stehovani postupuji, Algernon Edwards (Andre Holland) - nadany chirurg cerne pleti, jehoz milostny romanek s patronkou nemocnice Cornelii Robertsonovou (Juliet Rylanceova) skoncil potratem a Corneliinym snatkem se zamoznym bilym dedicem - se snazi zaujmout Thackeryho pozici hlavniho chirurga. Ostatni lekari, zdravotni sestry, jeptisky a spravcove se mezitim potykaji s radou problemu jak v profesnim, tak v soukromem zivote.(Cinemax)",
+    "createDate": 2014,
+    "rating": 90.8,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Stranger Things",
+    "image": "https://img.csfd.cz/files/images/film/posters/160/891/160891070_949a06.jpg?h180",
+    "note": "Chlapec se ztrati neznamo kde a mesto zacne odhalovat svoje zahady, mezi ktere patri i tajne experimenty, desive nadprirozene sily a jedna mala podivna holka.(Netflix)",
+    "createDate": 2016,
+    "rating": 90.7,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Most",
+    "image": "https://img.csfd.cz/files/images/film/posters/165/215/165215919_f58f56.jpg?h180",
+    "note": "Po mezinarodnim uspechu danskeho serialu Zlocin se pozornost priznivcu kvalitnich televiznich kriminalek obratila ke Skandinavii v nadeji na dalsi podobne propracovane hity. Ackoli rada z nadchazejicich titulu povetsinou predstavovala v ramci mezinarodni konkurence nadprumer, na vysoko stanovenou latku Zlocinem dosahla zatim pouze dansko-svedska koprodukcni serie Most. Nazev odkazuje k impozantni stavbe, ktera pres uzinu Oresund spojuje danskou metropoli Kodan se svedskym pristavnim mestem Malmo. Na tomto moste, presne na linii znacici hranici mezi obema staty se jedne noci objevi mrtvola, coz svede dohromady dva charakterove diametralne odlisne vysetrovatele z obou mest. Zahy se ukaze, ze tento incident byl pouhym prvnim krokem pachatele, jenz svymi ciny hodla poukazat na pet neduhu soudobe spolecnosti. Vedle samotneho vysetrovani a jeho presahu do skandinavske reality predstavuje dalsi dejovy oblouk spoluprace obou vysetrovatelu. Na jedne strane stoji bodry Dan a zaletny otec pocetne rodiny Martin Rohde, ztvarneny charismatickym Kimem Bodniou, s nimz ostre kontrastuje chladna a patologicky racionalni Saga Norenova, kterou bravurne hraje svedska herecka Sofia Helinova. Navzdory nevyhnutelnym konfliktum, ktere vyplyvaji ze stretu Martinovy empatie a emotivnosti s vecnosti a bystrosti, jez u Sagy maji koreny v Aspergerove syndromu, obe postavy tvori idealni kriminalisticky tym. Bravurni herecke obsazeni privadi k zivotu propracovany scenar z pera autora celkoveho konceptu serialu Hanse Rosenfeldta, ktery dnes jiz klasicke prvky a postupy skandinavskych krimi serii rozvadi do napaditych a originalnich podob. Most ale take uhrane svym formalnim zpracovanim, kde prevladaji nocni zabery s vyraznou svetelnou kompozici a ramovanim. Podobne jako zminovany Zlocin se take Most zaslouzene stal mezinarodnim hitem a byl uveden ve vice nez sto padesati zemich. Na motivy serialu vznikly take dva remaky, americky The Bridge zasazeny na hranici USA s Mexikem a francouzsko-britsky The Tunnel, kde je prvni telo nalezeno v Eurotunelu pod Lamansskym prulivem. Druha serie znovu svadi dohromady bodreho danskeho kriminalistu Martina Rohdeho a patologicky racionalni svedskou vysetrovatelku Sagu Norenovou. Vypraveni jednak sleduje nasledky predchozich udalosti na vztah teto nesourode dvojice a jejich okoli, ale soucasne je stavi pred novy pripad. Ten opet zacina na architektonicke dominante, jez dava serialu nazev, na moste spojujicim pres uzinu Oresund danskou metropoli Kodan se svedskym pristavnim mestem Malmo. Co se nejprve jevi jako unos, se rozroste do serie teroristickych cinu pachanych radikalnimi ekologickymi aktivisty. Opetovne serial stavi na dumyslnem konceptu hlavniho tvurce serialu, Sveda Hanse Rosenfeldta, jehoz napady pomahaji do scenaru zpracovat za svedskou a danskou stranu televizni scenariste Camilla Ahlgrenova a Nikolaj Scherfig. Jako hlavni reziser, ktery nove serii stanovil jeji charakteristicky chladny styl, se vratil Henrik Georgsson. Ustrednich roli se opet ujali bravurni Kim Bodnia a Sofia Helinova.(Ceska televize)",
+    "createDate": 2011,
+    "rating": 90.7,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Domek z karet",
+    "image": "https://img.csfd.cz/files/images/film/posters/161/198/161198270_3bdf8a.jpg?h180",
+    "note": "Francis Underwood (Kevin Spacey) vas vezme na dlouhou cestu, behem niz si vybira svou pomstu na tech, kteri ho zradili - vcetne clenu jeho vlastni vlady i prezidenta Spojenych statu osobne. Elegantni, prohnany, metodicke a zly Frank Underwood spolu se svoji manipulativni manzelkou Clair (Robin Wright) berou Washington utokem. Pricku po pricce stoupaji po hierarchickem zebriku, aby dosahli toho, po cem tak zoufale touzi - po moci.(AXN)",
+    "createDate": 2013,
+    "rating": 90.6,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "The Wire - Spina Baltimoru",
+    "image": "https://img.csfd.cz/files/images/film/posters/159/878/159878972_6d4737.jpg?h180",
+    "note": "Originalni serial z produkce HBO, ktery zkouma 5 nejcastejsich nemoci velkych mest. Narkotika, pasovani, byrokracii, skolni system a tisk. Co vime o Baltimoru? Je to spinava dira, plna drog, paseraku, zkorumpovanych politiku jako vlastne kazde druhe mesto tohohle zvraceneho sveta. Na druhou stranu jsou tu vsak taky blazni jako je policejni detektiv Jimmy McNulty (Dominic West), kteri se tim svinstvem prohrabavaji a pro vlastni poteseni z nej vytahuji odpadky. Na Jimmyho kuri oko cim dal casteji slape drogovy kral Avon Barksdale (Wood Harris) a jeho prava ruka Russell 'Stringer' Bell (Idris Elba), kteri v ulicich nenechavaji jen narkotika, ale i spousty mrtvych tel. A prave tady zacina saga o predem prohranem boji se zlocinem, ktera sveho casu posbirala nejedno oceneni a byla kritikou vynasena do nebe.(3DD!3)",
+    "createDate": 2002,
+    "rating": 90.5,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Fullmetal Alchemist: Bratrstvi",
+    "image": "https://img.csfd.cz/files/images/film/posters/162/759/162759815_6f3bc2.jpg?h180",
+    "note": "Pote, co bratri Edward a Alfonse utrpi fyzicka zraneni, bojuji proti zlu, aby se pokusili ziskat zpet sva tela.(Netflix)",
+    "createDate": 2009,
+    "rating": 90.5,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Temny pripad",
+    "image": "https://img.csfd.cz/files/images/film/posters/158/145/158145506_a3f028.jpg?h180",
+    "note": "Novy dramaticky serial HBO se ve sve prvni rade soustredi na Martyho Harta (Woody Harrelson) a Rusta\" Cohlea (Matthew McConaughey) - dva detektivy a byvale partaky, kteri uprostred devadesatych let pusobili v oddeleni vysetrovani vrazd v Luisiane. V roce 2012 z dosud nejasnych duvodu podstupuji radu vyslechu. Vysetrovatele se vyptavaji na jejich nejznamejsi pripad - brutalni vrazdu prostitutky z roku 1995, kterou pravdepodobne spachal seriovy vrah se znepokojivymi okultnimi sklony. Zatimco se Hart a Cohle vraceji zpatky k neuzavrenemu pripadu, jejich osobni pribehy a casto napjate vztahy nyni vyplouvaji na povrch a stavaji se ustrednim tematem. Hart je Louisiansky rodak a muz se smyslem pro rodinu, jehoz manzelstvi se rozpada pod tihou pracovniho stresu a nevery. Predstavuje (alespon navenek) pravy opak Cohlea, pesimistickeho samotare a byvaleho detektiva z protidrogoveho oddeleni v Texasu. Zatimco dej zene dopredu Hartova a Cohleova spolecna posedlost dopadnout ritualniho vraha, prave drama se odehrava kolem nevypocitatelnosti jejich vztahu a povah, a jak se ti dva navzajem ovlivnuji coby detektivove, pratele a muzi.(HBO Europe)\"",
+    "createDate": 2014,
+    "rating": 90.3,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Fargo",
+    "image": "https://img.csfd.cz/files/images/film/posters/159/484/159484777_195c89.png?h180",
+    "note": "Serial Fargo, inspirovany stejnojmennym oscarovym snimkem, adaptoval spisovatel a scenarista Noah Hawley. Dej se toci kolem zbrusu noveho",
+    "createDate": 2014,
+    "rating": 90.2,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Valecna generace",
+    "image": "https://img.csfd.cz/files/images/film/posters/130/516/130516553_d1588b.jpg?h180",
+    "note": "Berlin roku 1941. Pet pratel se touzi stat hrdiny v dobrodruzstvi, ktere zmeni tvar Evropy - a navzdy zmeni i je samotne. Vyrovnany a uhlazeny dustojnik Wilhelm odjizdi na vychodni frontu spolu se svym mladsim bratrem Friedhelmem, citlivym snilkem, ktereho mnohem vic nez valka zajima literatura. Do Wilhelma je hluboce zamilovana Charlotte, mlada zdravotni sestricka, ktera se rovnez tesi na sve pusobeni ve Wehrmachtu na vychodni fronte. Greta je talentovana zpevacka touzici stat se dalsi Marlene Dietrich - a jeji zidovsky pritel Viktor stale nedokaze presvedcit sve rodice, aby opustili Nemecko. Z lidskych hodnot se zacinaji drat do popredi odvaha a statecnost - ale take zrada. Friedhelm se stane bezduchym strojem na zabijeni. Wilhelm dezertuje a je postaven pred vojensky soud. Charlottina nacisticka ideologie se rozpadne, kdyz prozradi zidovskou sestricku slouzici ve Wehrmachtu. Greta zaridi Viktorovi doklady nezbytne k odjezdu tim, ze proda sve telo dustojnikovi SS. Vsech pet nasich pratel - a miliony dalsich - chtelo byt hrdiny, ale nikdo z nich se nedokazal predstavit, co udela valka s jejich zivoty a se zbytkem sveta...(Filmbox)",
+    "createDate": 2013,
+    "rating": 90.2,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Damsky gambit",
+    "image": "https://img.csfd.cz/files/images/film/posters/164/813/164813426_20c35d.jpg?h180",
+    "note": "V 50. letech v sobe mlada divka ze sirotcince objevi mimoradny sachovy talent. Jeji prekvapivou cestu ke slave ale komplikuje boj se zavislosti.(Netflix)",
+    "createDate": 2020,
+    "rating": 90.0,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Koruna",
+    "image": "https://img.csfd.cz/files/images/film/posters/161/103/161103726_7f7dd8.jpg?h180",
+    "note": "Serial sleduje politicke soupereni a osobni zivoty za vlady kralovny Alzbety II. a udalosti, ktere urcovaly dejiny druhe poloviny 20. stoleti.(Netflix)",
+    "createDate": 2016,
+    "rating": 89.8,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Monty Pythonuv letajici cirkus",
+    "image": "https://img.csfd.cz/files/images/film/posters/162/355/162355996_e2dac1.jpg?h180",
+    "note": "Nadherna a svobodna kavalkada nonsensu, satirickych skecu a britsky vykutalenych slovnich a situacnich hricek od panu, jejichz jmena zneji skoro jako jmena svatych - John Cleese, Eric Idle, Terry Jones, Graham Chapman, Michal Palin - doplnene animacemi velkeho a divokeho Terry Gilliama, zahajuje prehlidku odvaznych, kteri souhlasili ocitnout se v jejich zaricim stinu.(oficialni text distributora)",
+    "createDate": 1969,
+    "rating": 89.6,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "The Road Runner Show",
+    "image": "https://img.csfd.cz/files/images/film/posters/000/039/39091_f1d2d3.jpg?h180",
+    "note": "Legendarny animovany serial o nehynucom usili vynalizajuceho kojota chytit rychlo-sprintujuce zviera ponasajuce sa na psotrosa do svojich pazurov a zjest ho na veceru. Nikdy mu to vsak nejde, a tak stale vymysla nove a vzdy originalnejsie metody (napr. trysky na chrbte). Road Runner mu vzdy unika so svojim slavnym gestom mig-mig. Tato rozpravka je jedna z mnohych z dielni Chucka Jonesa (Bugs Bunny Show).(PaCM4N)",
+    "createDate": 1966,
+    "rating": 89.5,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Znovu u Spejbla a Hurvinka",
+    "image": "https://img.csfd.cz/files/images/film/posters/000/052/52738_5ea82d.jpg?h180",
+    "note": "Pribehy Spejbla a Hurvinka znaji deti skoro na celem svete. Vesele pribehy tatuldy Spejbla, ktery vsechno zna a umi, ale nikdy jeho pocinani nekonci bez komplikaci. Jeho ",
+    "createDate": 1974,
+    "rating": 89.5,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Fauda",
+    "image": "https://img.csfd.cz/files/images/film/posters/161/409/161409807_7531a9.jpg?h180",
+    "note": "Serial vypravi o specialni jednotce izraelske armady (heb. Mista'arvim), ktera ma vysadni postaveni v infiltraci a eliminaci teroristu na uzemi Izraele a Palestinske autonomie. V jednotce jsou prevazne Zide arabskeho puvodu. Samotny nazev Fauda v arabstine znaci ,,chaos",
+    "createDate": 2015,
+    "rating": 89.2,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Teorie velkeho tresku",
+    "image": "https://img.csfd.cz/files/images/film/posters/162/750/162750239_947997.jpg?h180",
+    "note": "Dva fyzici Leonard a Sheldon rozumi uplne vsemu, od neprekonatelne gravitace cernych der po spletitou strukturu atomu. Jenze kdyz vezmete ty atomy a zformujete z nich zenu, jsou oba vedatori v koncich. Kdyz se do sousedniho bytu pristehuje Penny, zena se vsemi atomy na tech pravych mistech, zacne se soukromy vesmir panu Leonarda a Sheldona rozpinat do netusenych rozmeru.(oficialni text distributora)",
+    "createDate": 2007,
+    "rating": 89.0,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Black Books",
+    "image": "https://img.csfd.cz/files/images/film/posters/161/950/161950530_0d7b65.jpg?h180",
+    "note": "V antikvariatu grobianskeho Ircana Bernarda Blacka a jeho pritelkyne Fran zvane Kocovina, vam nejen nic neprodaji, ale jeste vam vynadaji, pripadne i namlati.(oficialni text distributora)",
+    "createDate": 2000,
+    "rating": 89.0,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Jiste, pane premiere",
+    "image": "https://img.csfd.cz/files/images/film/posters/000/028/28077_aa7cef.jpg?h180",
+    "note": "Jim Hacker uz sedi v premierskem kresle cele tri dny - a zatim si vede skvele. Tedy alespon on sam o tom nema nejmensich pochyb. Pravda trochu mu vadi, ze se asi napriste bude muset obejit bez obedu, nebot v Downing Street se nevari. Ale tato drobna neprijemnost je bohate vyvazena radostnym ocekavanim nadsenych reakci verejnosti, jichz se mu nepochybne dostane, az ji seznami se svym genialne prostym ",
+    "createDate": 1986,
+    "rating": 89.0,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "MINDHUNTER: Lovci myslenek",
+    "image": "https://img.csfd.cz/files/images/film/posters/162/120/162120799_7b5de8.jpg?h180",
+    "note": "S obema hlavnimi hrdiny, agenty FBI, se vracime v case do roku 1979. Spolecne s mladym agentem Holdenem Fordem (Jonathan Groff) a jeho zkusenym kolegou Billim Tenchem (Holt McCallany) se podivame nejen do veznice, kde jsou vezneni ti nejhorsi a nejbrutalnejsi seriovi vrazi, ale predevsim do jejich hlav - s cilem dopadnout ty nasilniky, kteri stale behaji po svobode.(geklon)",
+    "createDate": 2017,
+    "rating": 89.0,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Byl jednou jeden... clovek ",
+    "image": "https://img.csfd.cz/files/images/film/posters/000/035/35474_d26f0d.jpg?h180",
+    "note": "Animovane dejiny sveta ve slavnem francouzskem serialu pro deti aneb Co byste meli vedet o sve minulosti.(oficialni text distributora)",
+    "createDate": 1978,
+    "rating": 88.9,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Jiste, pane ministre",
+    "image": "https://img.csfd.cz/files/images/film/posters/000/028/28083_ea938e.jpg?h180",
+    "note": "Rozdilem temer dva a pul tisice hlasu zvitezil James George Hacker ve svem volebnim obvodu nad svymi souperi. O tom, ze se stane ministrem nove vlady, by jiz nemelo byt nejmensich pochyb. A ve hre je tolik zajimavych postu: mistni hospodarstvi, zahranici, zdravotnictvi, energetika... Jim by si klidne troufl na vsechny, spokojil by se i s tim nejmene vyznamnym. Jenomze kampan na predaka strany vedl proti nynejsimu premierovi, proto ma takovy neprijemny pocit, ze se mu tenhle jeho minuly postoj tak trochu vymsti. A zda se, ze ho jeho neblahe tuseni nezklamalo. Jedno ministerstvo po druhem pada do klina nekteremu jeho stranickemu kolegovi a on porad nic. Marne se vrha ke kazdemu telefonu, premier nevola. Co jeste zbyva? A zbyva vubec neco? Ale ano, samozrejme! Ministerstvo pro administrativni zalezitosti! Co na tom, ze je skodolibi televizni komentatori oznacuji za cosi na zpusob politickeho hrbitova! Ministerstvo to je a Jim je odhodlan udelat na nem kus prace... Sitcom ",
+    "createDate": 1980,
+    "rating": 88.8,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Pustina ",
+    "image": "https://img.csfd.cz/files/images/film/posters/161/586/161586865_1b6267.jpg?h180",
+    "note": "Zlocin, ktery rozhodujicim zpusobem zasahne do zivotu vsech zucastnenych, stoji na pocatku dramaticke miniserie HBO Europe, Pustina. Kdyz se starostka severoceske vesnice Hana Sikorova ocitne na vrcholu sveho boje proti velke tezebni spolecnosti nabizejici obyvatelum obce vysoke odstupne vymenou za opusteni jejich domovu postavenych na loziscich hnedeho uhli, zmizi jeji ctrnactileta dcera Misa. Patrani po dceri Hanu po letech mirumilovneho souziti s ostatnimi privede k pochybnostem ohledne cele komunity, ktera se pod vlivem udalosti zacina rozpadat a ukazovat svou pravou tvar. Objasnovani zahady pribeh rozvetvuje do nekolika prolinajicich se dejovych linii, gradujicich do necekanych souvislosti.(HBO Europe)",
+    "createDate": 2016,
+    "rating": 88.7,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Ovecka Saun",
+    "image": "https://img.csfd.cz/files/images/film/posters/000/053/53800_ebef94.jpg?h180",
+    "note": "Se Shaunem vladne na farme chaos! Shaun rozhodne nejde se stadem - prave naopak, stado se pod jeho vedenim pousti do ruznych cinnosti, ktere klidne udoli meni na pastvinu plnou zmatku. Shaun s kamarady nedavaji sanci pasteveckemu psu Bitzerovi, ktery se snazi utajit, co vsechno se deje za farmarovymi zady. Kazdy den prinasi nove dobrodruzstvi se Shaunem! 8 Bee...zvadnych pribehu: Rozcvicka se Shaunem Koupani Aportovani Donaska Obraz Cesaci jablek Strasidelna noc Drak.(oficialni text distributora)",
+    "createDate": 2007,
+    "rating": 88.7,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Papirovy dum (Netflix verze)",
+    "image": "https://img.csfd.cz/files/images/film/posters/163/634/163634066_906b06.jpg?h180",
+    "note": "Parta zlodeju pod vedenim Profesora se vydava vyloupit mincovnu. Pokud se jim to podari, muzou si pripsat 2,4 miliardy eur na duchod. Jenze i ten nejlepsi plan je stejne tak dobry jako je nejslabsi clen party.(Varan)",
+    "createDate": 2017,
+    "rating": 88.7,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Pratele",
+    "image": "https://img.csfd.cz/files/images/film/posters/161/570/161570188_10c9ae.jpg?h180",
+    "note": "Laska, sex, pratelstvi, stesti a smula kolem nas aneb zivot je treba brat s nadhledem.(oficialni text distributora)",
+    "createDate": 1994,
+    "rating": 88.6,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Pat a Mat",
+    "image": "https://img.csfd.cz/files/images/film/posters/160/008/160008046_adfea1.jpg?h180",
+    "note": "Hlavni inspiraci pro jejich pribehy je manualni nesikovnost. Dulezita vsak neni jen legrace, ale i optimisticky postoj Pata a Mata k zivotu. I kdyz je vse ztracene, nikdy neskladaji ruce do klina a nakonec jsou vzdy se svym resenim spokojeni. Slava hvezd rostla az do roku 1995. S novym tisiciletim se Pat a Mat vraceji opet na scenu v novych pribezich.(oficialni text distributora)",
+    "createDate": 1976,
+    "rating": 88.6,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "The Boys",
+    "image": "https://img.csfd.cz/files/images/film/posters/162/951/162951856_91767d.jpg?h180",
+    "note": "Serial The Boys, adaptovan z komiksove predlohy stejneho nazvu a vytvoren hercem a reziserem Sethem Rogenem, je zasazen do alternativniho vesmiru, kde jednotlivci obdareni supermoci jsou uznavani sirokou verejnosti jako superhrdinove. Tyto superhrdiny vlastni silna spolecnost Vought International, ktera je prodava a zpenezuje. Tito superhrdinove se ve svem osobnim zivote chovaji arogantne a radi zneuzivaji svoje superschopnosti. Serial sleduje primarne dve skupiny: Sedm, neboli predni tym superhrdinu Vought International a skupinu viligantu The Boys, ktera se snazi znicit tyto zkorumpovane superhrdiny. Skupina The Boys je vedena Billym Butcherem (Karl Urban), ktery nenavidi vsechny superhrdiny a skupina Sedm je vedena egoistickym a nestabilnim Homelanderem (Antony Starr). Mimo jejich konflikt sleduje serial take nove cleny kazdeho tymu: Hugh ",
+    "createDate": 2019,
+    "rating": 88.6,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Cerveny trpaslik",
+    "image": "https://img.csfd.cz/files/images/film/posters/162/956/162956628_3699e6.jpg?h180",
+    "note": "Toto je volani o pomoc tezarske lodi Cerveny trpaslik. Posadka je mrtva, zahynula v dusledku ozareni. Jedini, kdo prezili jsou Dave Lister, ktery byl v dobe nehody na lodi ve stavu nevedomi a jeho brezi kocka, bezpecne uzavrena ve skladisti. Po probuzeni za tri miliony let je Lister pouze ve spolecnosti tvora, jenz se vyvinul z jeho kocky, a Arnolda Rimmera, holograficke simulace jednoho mrtveho clena posadky. Ja jsem Holly, lodni pocitac s IQ 6000. Coz je stejne jako ma 6000 ucitelu telocviku.(oficialni text distributora)",
+    "createDate": 1988,
+    "rating": 88.5,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "My z Kacerova",
+    "image": "https://img.csfd.cz/files/images/film/posters/164/972/164972283_3c391e.jpg?h180",
+    "note": "Strycek Skrblik a jeho tri synovci, Dulik, Bubik a Kulik. Kdo by neznal tyto kacery z Kacerova? Kdyz Skrblik, lakomy milionar sidlici v honosne vile, zrovna nestrezi sve penize pred zakernymi Rafany, vydava se na vypravy za dalsim bohatstvim. A jeho mali synovci mu v tom pomahaji po boku Rampy McKvaka. Proti nim ale stoji dva silni protivnici, Magika von Cary a kacer Hamoun. Jejich vypravy ale vzdy dopadnou dobre a doma na ne uz ceka pani Cvachtova a samozrejme cas od casu hostujici kacer Donald.(Zoiberg)",
+    "createDate": 1987,
+    "rating": 88.5,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Krkonosske pohadky",
+    "image": "https://img.csfd.cz/files/images/film/posters/159/865/159865167_9a64ad.jpg?h180",
+    "note": "Trautenberk, Ance, Kuba, hajny a Krakonos - oblibene pohadkove pribehy. Chamtivy a lakomy Trautenberk, zijici v horach na same hranici Krakonosova hajemstvi, by chtel byt velkym panem. Ale cele jeho panstvi tvori chalupa, kousek lesa, par luk a poli. Jedinymi jeho poddanymi jsou Kuba, Ance a hajny. Pribehy, napr. Jak Trautenberk lovil v Krakonosove reviru, Jak Kuba utekl ke Krakonosovi, Jak chtel Trautenberk pericko z Krakonosovy sojky...",
+    "createDate": 1974,
+    "rating": 88.2,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Dexter",
+    "image": "https://img.csfd.cz/files/images/film/posters/165/093/165093521_bdc788.jpg?h180",
+    "note": "Je inteligentni, okouzlujici a ma skvely smysl pro humor. Je to Dexter Morgan (drzitel Zlateho globu Michael C. Hall), vsemi oblibeny seriovy vrah. Coby forenzni expert u miamske policie ve dne vrazdy vysetruje a v noci je pacha. Dexter se vsak ridi prisnym etickym kodexem, ktery je jak jeho spasou, tak i celozivotnim bremenem. Dexter, rozpolceny mezi nutkanim zabijet a touhou po skutecnem stesti, zije v hlubokem konfliktu se svetem i se sebou samym. V prvni rade se dozvime, ze Dexter Morgan ve ctyrech letech osirel a nese si s sebou traumaticke tajemstvi. Byl adoptovan policejnim dustojnikem, ktery odhalil Dexterovy vrazedne sklony a naucil syna ventilovat hruznou touhu po lidske krvi konstruktivnim zpusobem - zabijenim odpornych zlocincu, kteri bud stoji nad zakonem, nebo se jim podarilo proklouznout spravedlnosti.(HBO Europe)",
+    "createDate": 2006,
+    "rating": 88.1,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Bob a Bobek - kralici z klobouku",
+    "image": "https://img.csfd.cz/files/images/film/posters/159/857/159857121_dfcaba.jpg?h180",
+    "note": "Objevili se na televiznich obrazovkach poprve v roce 1979. Podobu jim dal kreslir Vladimir Jiranek, hlas jim propujcil Josef Dvorak. K jejich prvnim dobrodruzstvim, ktera podle scenaru Jaroslava Pacovskeho a Jiriho Sebanka natocil reziser Vaclav Bedrich, rychle pribyvala dobrodruzstvi dalsi. Bylo jich nejdrive trinact, pak sestadvacet a potom dokonce celych devetatricet. Bob a Bobek se za ta leta prilis nezmenili. Jsou to porad ti mili brasi, ochotni kdykoliv prilozit pracku k dilu anebo prispet nekomu na pomoc. Ze se jejich dobra vule nesetka vzdy s tim nejlepsim vysledkem? Inu, takovy je uz zakon grotesky. Kdo z nas se ostatne nekdy neocitl v podobne situaci. Serial o kralicich z klobouku patri k tem nejrozsahlejsim kreslenym serialum, ktere v produkci nejdrive Ceskoslovenske a pozdeji Ceske televize vznikly. Na rozdil od mnoha zahranicnich animovanych serialu se tym realizatoru prilis nezmenil. Pouze rezisera Vaclava Bedricha nahradil pri rezii zaverecnych dilu jeden z animatoru serialu Miroslav Walter. A protoze ti dva brasi z kouzelnikova klobouku rozhodne patri k tem vecernickovskym hrdinum, kterym jejich oblibenost mezi malymi i velkymi divaky zajistila nesmrtelnost, muzete se s nimi setkavat take v novych pokracovanich na cestach.(Ceska televize)",
+    "createDate": 1979,
+    "rating": 88.0,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Firefly",
+    "image": "https://img.csfd.cz/files/images/film/posters/160/438/160438552_6d2189.jpg?h180",
+    "note": "Serenity je lod tridy Firefly a jeji kapitan se jmenuje Malcolm Reynolds, ale nikdo mu nerekne jinak nez Mal, coz je vlastne latinsky ,,spatne",
+    "createDate": 2002,
+    "rating": 87.9,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Ajtaci",
+    "image": "https://img.csfd.cz/files/images/film/posters/160/811/160811810_055cfc.jpg?h180",
+    "note": "V preplnenem a nevzhlednem suterenu, hluboko v utrobach budovy Reynholm Industries se skryvaji Roy a Moss - pracovnici oddeleni informacnich technologii, zloreceni i vysmivani svymi bezohlednymi kolegy. Jejich zivot ve svete serveru a protipozarnich prekazek je nasilne prerusen prichodem nove personalni manazerky Jen, ktera toho vi o pocitacich asi tolik jako lama (nebo kterykoliv jiny sudokopytnik). Jen nema zajem pracovat v ubohem suterenu a Roy s Mossem nechteji pracovat pod nekym, kdo nerozumi BASICu a nikdy neslysel o dvojkove soustave. Casem vsak prijdou na to, ze mit jako vedouci zenu, muze mit i sve vyhody.(oficialni text distributora)",
+    "createDate": 2006,
+    "rating": 87.8,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Death Note - Zapisnik smrti",
+    "image": "https://img.csfd.cz/files/images/film/posters/160/859/160859123_ebea0f.jpg?h180",
+    "note": "Japonsky stredoskolak dostane do rukou mysticky zapisnik, ktery zabije kazdeho, jehoz jmeno do nej napise.(Netflix)",
+    "createDate": 2006,
+    "rating": 87.9,
+    "time": 150,
+    "achievments": [],
+    "parts": [
+      {
+        "id": 0,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Descenso",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Mec Simona Bolivara",
+            "time": 30
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "episodes": [
+          {
+            "id": 0,
+            "name": "Konecne volny",
+            "time": 30
+          },
+          {
+            "id": 1,
+            "name": "Cambalache",
+            "time": 30
+          }
+        ]
+      }
+    ]
+  }
+]

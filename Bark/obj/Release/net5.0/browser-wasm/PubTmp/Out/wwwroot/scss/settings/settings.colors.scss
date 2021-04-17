@@ -1,0 +1,41 @@
+﻿///* ========================================================================
+//   #Settings Colors
+//   ======================================================================== */
+
+//Základní barvy
+
+$DMBackgroundColor: #18191A;
+$DMForegroundColor: #242526;
+$DMForeground2Color: #333435;
+$DMHoverColor: #474849;
+$DMAccentColor: #AB1321;
+$DMAccent2Color: #790f18;
+$DMtextColor: #fff;
+
+$LMBackgroundColor: #F0F2F5;
+$LMForegroundColor: #FFFFFF;
+$LMForeground2Color: #f7f8fa;
+$LMHoverColor: #e5e6e8;
+$LMAccentColor: #2D88FF;
+$LMAccent2Color: #276fce;
+$LMtextColor: #000;
+
+.PageLayout--dark {
+    --bgColor: $DMBackgroundColor;
+    --fgColor: $DMForegroundColor;
+    --fg2Color: $DMForeground2Color;
+    --hoverColor: $DMHoverColor;
+    --accentColor: $DMAccentColor;
+    --accent2Color: $DMAccent2Color;
+    --textColor: $DMtextColor;
+}
+
+.PageLayout--light {
+    --bgColor: $LMBackgroundColor;
+    --fgColor: $LMForegroundColor;
+    --fg2Color: $LMForeground2Color;
+    --hoverColor: $LMHoverColor;
+    --accentColor: $LMAccentColor;
+    --accent2Color: $LMAccent2Color;
+    --textColor: $LMtextColor;
+}

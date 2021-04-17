@@ -1,0 +1,233 @@
+﻿@using Bark.Model
+@inherits LayoutComponentBase
+
+<div id="PageLayout" class="PageLayout @(DarkMode ? "PageLayout--dark" : "PageLayout--light")">
+
+    <!--#region Header-->
+
+    <header id="Header" class="Header">
+        <div class="Header-menu">
+            <div class="Header-toggler" @onclick="ToggleLeftSidebar">
+                <i class="bi bi-list"></i>
+            </div>
+            @foreach (Menu item in MenuService.MenuServ.BaseMenu)
+            {
+                <div class="Header-menuItem @(CurrentPage == item ? "is-selected" : "")" @onclick="() => MenuItemClick(item.Url)">
+                    @item.Text
+                </div>
+            }
+        </div>
+        <div class="Header-logo">
+            <img src="/img/showmax.svg" class="Header-logoImg" />
+        </div>
+        <div class="Header-search">
+            <div class="Header-searchBar">
+                <i class="Header-searchBarIcon bi bi-search"></i>
+                <DxComboBox CssClass="Header-searchBarTextBox"
+                            NullText="Search"
+                            ValueFieldName="Id"
+                            TextFieldName="Name"
+                            Data="@Database.Current.Movies"
+                            @bind-Value="@SelectedContent"
+                            FilteringMode="DataGridFilteringMode.Contains" />
+            </div>
+        </div>
+    </header>
+
+    <!--#endregion Header-->
+
+    <aside id="LeftSidebar" class="Sidebar Sidebar--left @(LeftSidebarStatus == eSidebarState.Closed ? "is-hidden" : "")">
+        <div class="LeftSidebar-content">
+            @if (!ChatMode)
+            {
+                <div class="Sidebar-friends">
+                    <div class="Sidebar-friend" @onclick="ToggleChatMode">
+                        <div class="Sidebar-friendLeft">
+                            <div class="Sidebar-friendAvatar" style="background-color: #c56666;">
+                                <span class="Sidebar-friendAvatarName">KD</span>
+                                <span class="Sidebar-friendAvatarRank">1</span>
+                                <span class="Sidebar-friendAvatarActivity is-online"></span>
+                            </div>
+                        </div>
+                        <div class="Sidebar-friendRight">
+                            <div class="Sidebar-friendName">Karina Dostupna</div>
+                            <div class="Sidebar-friendLastChatText">Už jsi viděl The 100??</div>
+                        </div>
+                    </div>
+                    <div class="Sidebar-friend" @onclick="ToggleChatMode">
+                        <div class="Sidebar-friendLeft">
+                            <div class="Sidebar-friendAvatar" style="background-color: #c5b566;">
+                                <span class="Sidebar-friendAvatarName">RV</span>
+                                <span class="Sidebar-friendAvatarRank">0</span>
+                                <span class="Sidebar-friendAvatarActivity is-notdisturb"></span>
+                            </div>
+                        </div>
+                        <div class="Sidebar-friendRight">
+                            <div class="Sidebar-friendName">Radmila Velka</div>
+                            <div class="Sidebar-friendLastChatText">Na co se mám podívat?</div>
+                        </div>
+                    </div>
+                    <div class="Sidebar-friend" @onclick="ToggleChatMode">
+                        <div class="Sidebar-friendLeft">
+                            <div class="Sidebar-friendAvatar" style="background-color: #8fc566;">
+                                <span class="Sidebar-friendAvatarName">CC</span>
+                                <span class="Sidebar-friendAvatarRank">2</span>
+                                <span class="Sidebar-friendAvatarActivity is-notdisturb"></span>
+                            </div>
+                        </div>
+                        <div class="Sidebar-friendRight">
+                            <div class="Sidebar-friendName">Cestmir Cestny</div>
+                            <div class="Sidebar-friendLastChatText">Co děláš?</div>
+                        </div>
+                    </div>
+                    <div class="Sidebar-friend" @onclick="ToggleChatMode">
+                        <div class="Sidebar-friendLeft">
+                            <div class="Sidebar-friendAvatar" style="background-color: #66aac5;">
+                                <span class="Sidebar-friendAvatarName">ZD</span>
+                                <span class="Sidebar-friendAvatarRank">4</span>
+                                <span class="Sidebar-friendAvatarActivity is-offline"></span>
+                            </div>
+                        </div>
+                        <div class="Sidebar-friendRight">
+                            <div class="Sidebar-friendName">Zdenek Dvere</div>
+                            <div class="Sidebar-friendLastChatText">Ahoj</div>
+                        </div>
+                    </div>
+                    <div class="Sidebar-friend" @onclick="ToggleChatMode">
+                        <div class="Sidebar-friendLeft">
+                            <div class="Sidebar-friendAvatar" style="background-color: #667cc5;">
+                                <span class="Sidebar-friendAvatarName">ZL</span>
+                                <span class="Sidebar-friendAvatarRank">2</span>
+                                <span class="Sidebar-friendAvatarActivity is-offline"></span>
+                            </div>
+                        </div>
+                        <div class="Sidebar-friendRight">
+                            <div class="Sidebar-friendName">Ingrid Nedostupna</div>
+                            <div class="Sidebar-friendLastChatText">Čáu, jak se máš?</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="Sidebar-user" @onclick="@(() => PopupVisible = true)">
+                    <div class="Sidebar-friend">
+                        <div class="Sidebar-friendLeft">
+                            <div class="Sidebar-friendAvatar">
+                                <span class="Sidebar-friendAvatarName">TZ</span>
+                                <span class="Sidebar-friendAvatarRank">2</span>
+                                <span class="Sidebar-friendAvatarActivity is-online"></span>
+                            </div>
+                        </div>
+                        <div class="Sidebar-friendRight">
+                            <div class="Sidebar-friendName">Tomas Zvon</div>
+                        </div>
+                    </div>
+                </div>
+            }
+            else
+            {
+                <div class="Chat-head">
+                    <span class="Chat-back bi bi-arrow-90deg-left" @onclick="ToggleChatMode"></span>
+                    <span class="Chat-friendName">Karina Dostupna</span>
+                </div>
+                <div class="Chat-body">
+                    <div class="Chat-message">
+                        <div class="Sidebar-friendAvatar" style="background-color: #c56666;">
+                            <span class="Sidebar-friendAvatarName">KD</span>
+                            <span class="Sidebar-friendAvatarRank">1</span>
+                            <span class="Sidebar-friendAvatarActivity is-online"></span>
+                        </div>
+                        <div class="Chat-text">Ahoj, jak se máš?</div>
+                    </div>
+                </div>
+                <div class="Chat-footer">
+                    <div class="Chat-editor">
+                        <i class="Chat-smile bi bi-emoji-smile-fill"></i>
+                        <DxTextBox CssClass="Chat-editorInput" />
+                    </div>
+                    <span class="Chat-send bi bi-arrow-right"></span>
+                </div>
+            }
+        </div>
+    </aside>
+
+    @if (DisplayRightSidebar)
+    {
+        <aside id="RightSidebar" class="Sidebar Sidebar--right">
+            <div class="RightSidebar-body">
+                <div class="RightSidebar-filter">
+                    <div class="ContView-button">Most viewed by friends</div>
+                </div>
+                <div class="RightSidebar-contents">
+                    <div class="RightSidebar-content">
+                        <img class="RightSidebar-contentImg" src="https://img.csfd.cz/files/images/film/posters/159/217/159217194_e183d5.jpg?h180" />
+                    </div>
+                    <div class="RightSidebar-content">
+                        <img class="RightSidebar-contentImg" src="https://img.csfd.cz/files/images/film/posters/162/124/162124970_099b73.jpg?h180" />
+                    </div>
+                    <div class="RightSidebar-content">
+                        <img class="RightSidebar-contentImg" src="https://img.csfd.cz/files/images/film/posters/158/600/158600807_ea3544.jpg?h180" />
+                    </div>
+                    <div class="RightSidebar-content">
+                        <img class="RightSidebar-contentImg" src="https://img.csfd.cz/files/images/film/posters/163/574/163574446_1481bb.jpg?h180" />
+                    </div>
+                    <div class="RightSidebar-content">
+                        <img class="RightSidebar-contentImg" src="https://img.csfd.cz/files/images/film/posters/160/205/160205818_72d845.jpg?h180" />
+                    </div>
+                    <div class="RightSidebar-content">
+                        <img class="RightSidebar-contentImg" src="https://img.csfd.cz/files/images/film/posters/160/620/160620903_69696f.jpg?h180" />
+                    </div>
+                    <div class="RightSidebar-content">
+                        <img class="RightSidebar-contentImg" src="https://img.csfd.cz/files/images/film/posters/162/359/162359219_72ef04.jpg?h180" />
+                    </div>
+                    <div class="RightSidebar-content">
+                        <img class="RightSidebar-contentImg" src="https://img.csfd.cz/files/images/film/posters/159/940/159940898_38f5f8.jpg?h180" />
+                    </div>
+                    <div class="RightSidebar-content">
+                        <img class="RightSidebar-contentImg" src="https://img.csfd.cz/files/images/film/posters/159/533/159533678_4e8f0a.jpg?h180" />
+                    </div>
+                    <div class="RightSidebar-content">
+                        <img class="RightSidebar-contentImg" src="https://img.csfd.cz/files/images/film/posters/162/398/162398465_dc9ff3.jpg?h180" />
+                    </div>
+                </div>
+            </div>
+        </aside>
+    }
+
+    <!--#region Main-->
+
+    <main id="Main" class="Main">
+        <CascadingValue Value="this" Name="MainLayout">
+            @Body
+        </CascadingValue>
+    </main>
+
+    <!--#region Main-->
+</div>
+
+<DxPopup HeaderText="Status"
+         @bind-Visible="@PopupVisible"
+         ShowCloseButton="true"
+         CloseButtonClick="(() => PopupVisible = false)"
+         CssClass="Popup">
+    <Content>
+        <div class="StatusList">
+            <div class="Status">
+                <div class="Status-image is-online"></div>
+                <div class="Status-text">Online</div>
+            </div>
+            <div class="Status">
+                <div class="Status-image is-notdisturb"></div>
+                <div class="Status-text">Nerušit</div>
+            </div>
+            <div class="Status">
+                <div class="Status-image is-offline"></div>
+                <div class="Status-text">Neviditelný</div>
+            </div>
+        </div>
+    </Content>
+</DxPopup>
+
+<style>
+    .PageLayout {
+        background: var(--bgColor);
+    }
+</style>

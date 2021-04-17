@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "users": [ 0, 1 ],
+    "chatContents": [
+      {
+        "authorId": 0,
+        "text": "Ahoj"
+      },
+      {
+        "authorId": 1,
+        "text": "Èáu, jak se máš?"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "users": [ 0, 2 ],
+    "chatContents": [
+      {
+        "authorId": 0,
+        "text": "Ahoj"
+      },
+      {
+        "authorId": 2,
+        "text": "Už jsi vidìl The 100?"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "users": [ 0, 3 ],
+    "chatContents": [
+      {
+        "authorId": 0,
+        "text": "Ahoj"
+      },
+      {
+        "authorId": 3,
+        "text": "Na co se mám podívat?"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "users": [ 0, 4 ],
+    "chatContents": [
+      {
+        "authorId": 0,
+        "text": "Ahoj"
+      },
+      {
+        "authorId": 4,
+        "text": "Co dìláš?"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "users": [ 0, 5 ],
+    "chatContents": [
+      {
+        "authorId": 0,
+        "text": "Ahoj"
+      },
+      {
+        "authorId": 5,
+        "text": "Na co koukáš?"
+      }
+    ]
+  }
+]

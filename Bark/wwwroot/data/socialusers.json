@@ -1,0 +1,202 @@
+[
+  {
+    "id": 0,
+    "rank": 2,
+    "contentReactions": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "rating": 9,
+        "comment": "Skvìlý film"
+      },
+      {
+        "contentType": 1,
+        "contentId": 1,
+        "rating": 9,
+        "comment": "Skvìlý seriál"
+      }
+    ],
+    "doneAchievmentsIds": [ 1, 2, 3 ],
+    "friendsIds": [ 1, 2, 3, 4, 5 ]
+  },
+  {
+    "id": 1,
+    "rank": 1,
+    "contentReactions": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "rating": 9,
+        "comment": "Užásná podívaná"
+      },
+      {
+        "contentType": 1,
+        "contentId": 1,
+        "rating": 1,
+        "comment": "nic moc"
+      }
+    ],
+    "doneAchievmentsIds": [ 1, 2 ],
+    "friendsIds": [ 0 ]
+  },
+  {
+    "id": 2,
+    "rank": 0,
+    "contentReactions": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "rating": 5,
+        "comment": ""
+      },
+      {
+        "contentType": 1,
+        "contentId": 1,
+        "rating": 5,
+        "comment": ""
+      }
+    ],
+    "doneAchievmentsIds": [],
+    "friendsIds": [ 0 ]
+  },
+  {
+    "id": 3,
+    "rank": 0,
+    "contentReactions": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "rating": 5,
+        "comment": ""
+      },
+      {
+        "contentType": 1,
+        "contentId": 1,
+        "rating": 5,
+        "comment": ""
+      }
+    ],
+    "doneAchievmentsIds": [],
+    "friendsIds": [ 0 ]
+  },
+  {
+    "id": 4,
+    "rank": 0,
+    "contentReactions": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "rating": 5,
+        "comment": ""
+      },
+      {
+        "contentType": 1,
+        "contentId": 1,
+        "rating": 5,
+        "comment": ""
+      }
+    ],
+    "doneAchievmentsIds": [],
+    "friendsIds": [ 0 ]
+  },
+  {
+    "id": 5,
+    "rank": 0,
+    "contentReactions": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "rating": 5,
+        "comment": ""
+      },
+      {
+        "contentType": 1,
+        "contentId": 1,
+        "rating": 5,
+        "comment": ""
+      }
+    ],
+    "doneAchievmentsIds": [],
+    "friendsIds": [ 0 ]
+  },
+  {
+    "id": 6,
+    "rank": 0,
+    "contentReactions": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "rating": 5,
+        "comment": ""
+      },
+      {
+        "contentType": 1,
+        "contentId": 1,
+        "rating": 5,
+        "comment": ""
+      }
+    ],
+    "doneAchievmentsIds": [],
+    "friendsIds": []
+  },
+  {
+    "id": 7,
+    "rank": 0,
+    "contentReactions": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "rating": 5,
+        "comment": ""
+      },
+      {
+        "contentType": 1,
+        "contentId": 1,
+        "rating": 5,
+        "comment": ""
+      }
+    ],
+    "doneAchievmentsIds": [],
+    "friendsIds": [ ]
+  },
+  {
+    "id": 8,
+    "rank": 0,
+    "contentReactions": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "rating": 5,
+        "comment": ""
+      },
+      {
+        "contentType": 1,
+        "contentId": 1,
+        "rating": 5,
+        "comment": ""
+      }
+    ],
+    "doneAchievmentsIds": [],
+    "friendsIds": [ ]
+  },
+  {
+    "id": 9,
+    "rank": 0,
+    "contentReactions": [
+      {
+        "contentType": 0,
+        "contentId": 1,
+        "rating": 5,
+        "comment": ""
+      },
+      {
+        "contentType": 1,
+        "contentId": 1,
+        "rating": 5,
+        "comment": ""
+      }
+    ],
+    "doneAchievmentsIds": [],
+    "friendsIds": [ ]
+  }
+]

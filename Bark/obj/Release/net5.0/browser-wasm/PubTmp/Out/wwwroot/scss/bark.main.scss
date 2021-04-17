@@ -1,0 +1,61 @@
+/* ==========================================================================
+   INUITCSS
+   ========================================================================== */
+
+/**
+ * CONTENTS
+ *
+ * SETTINGS
+ * Core.................Core a setup nastavení.
+ * Global...............Proměnné a nastavení.
+ * Colors...............Barvy.
+ * Breakpoints..........Velikosti pro rozlišení stylů dle sířky zařízení
+ *
+ * TOOLS
+ * Base.................Základní funkce.
+ *
+ * GENERIC
+ * Box-sizing...........Lepší default `box-sizing`.
+ * Normalize.css........Zajištění stejného vykreslování pro všechny prohlížeče.
+ * Reset................Reset elementů (nastavení všeho na 0).
+ *
+ * ELEMENTS
+ * Page.................Nastavení základních elementů
+ *
+ * OBJECTS
+ * Base.................Základní layouty a kontejnery.
+ *
+ * COMPONENTS
+ * Base.................Základní komponenty.
+ * Layout...............Layout komponenty.
+ *
+ * UTILITIES
+ * Base.................Základní utility a helpery
+ */
+
+// SETTINGS
+@import "settings/settings.core.scss";
+@import "settings/settings.global.scss";
+@import "settings/settings.breakpoints.scss";
+@import "settings/settings.colors.scss";
+
+// TOOLS
+@import "tools/tools.base.scss";
+
+// GENERIC
+@import "generic/generic.box-sizing.scss";
+@import "generic/generic.normalize.scss";
+@import "generic/generic.reset.scss";
+
+// ELEMENTS
+@import "elements/elements.page.scss";
+
+// OBJECTS
+@import "objects/objects.base.scss";
+
+// COMPONENTS
+@import "components/components.base.scss";
+@import "components/components.layout.scss";
+
+// UTILITIES
+@import "utilities/utilities.base.scss";
